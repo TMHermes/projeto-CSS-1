@@ -1,14 +1,5 @@
 /* Estilos específicos da página Index */
 
-
-.color-red {
-    color:red;
-}
-
-.color-red ul li a {
-    color:green;
-}
-
-#link-home {
-    color: black;
+.cover-container figure img {
+    width: 100%;
 }
